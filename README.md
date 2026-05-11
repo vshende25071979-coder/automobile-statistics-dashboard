@@ -4,9 +4,9 @@ An interactive data visualization project built using Python, Dash, Plotly, and 
 
 ---
 
-## 📊 Project Description
+## 📊 Project Overview
 
-This dashboard analyzes automobile sales data to provide insights into:
+This dashboard analyzes automobile sales data to generate insights on:
 
 - Yearly automobile sales trends  
 - Impact of recession on sales  
@@ -25,7 +25,7 @@ This dashboard analyzes automobile sales data to provide insights into:
 
 ---
 
-## 📂 Dataset Used
+## 📂 Dataset
 
 The dataset is loaded from an online source:
 
@@ -35,17 +35,17 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/d51iMGfp_t0Qp
 
 ## 🚀 Features
 
-✔ Interactive dashboard using dropdown filters  
-✔ Recession vs Non-recession analysis  
-✔ Year-wise and month-wise trends  
-✔ Vehicle type comparison  
-✔ Dynamic graphs  
+- Interactive dashboard using dropdown filters  
+- Recession vs Non-recession analysis  
+- Year-wise and month-wise trend analysis  
+- Vehicle type comparison  
+- Dynamic visualizations  
 
 ---
 
 ## ▶️ How to Run Project
 
-### 1. Install required libraries
+### 1. Install dependencies
 
-```bash id="inst1"
+```bash
 pip install dash plotly pandas
